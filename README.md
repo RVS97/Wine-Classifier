@@ -1,4 +1,4 @@
-# Wine CLassification unsing Machine Learning techniques
+# Wine Classification unsing Machine Learning techniques
 
 Code Repository for EE3-32 Machine Learning (2017-2018): Wine Classification
 
@@ -16,8 +16,8 @@ As described in the report various methods are implemented, all are executed fro
 
 [ridgeRegression.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/ridgeRegression.m): Ridge Regression
 
-[multiclassPerceptron.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/linearRegression.m): Perceptron
+[multiclassPerceptron.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/multiclassPerceptron.m): Perceptron
 
-[multiclassSVM.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/linearRegression.m): Support Vector Machine
+[multiclassSVM.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/multiclassSVM.m): Support Vector Machine
 
-[neuralNet.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/linearRegression.m): Basic Fully Connected Neural Network
+[neuralNet.m](https://github.com/RVS97/Wine-Classifier/blob/master/code/neuralNet.m): Basic Fully Connected Neural Network
