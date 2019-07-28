@@ -1,4 +1,4 @@
-# Wine Classification unsing Machine Learning techniques
+# Wine Classification using Machine Learning techniques
 
 Code Repository for EE3-32 Machine Learning (2017-2018): Wine Classification
 
